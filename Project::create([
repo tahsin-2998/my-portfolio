@@ -1,0 +1,12 @@
+[90m= [39m[34;4mApp\Models\Project[39;24m {#8030
+    [34mtitle[39m: [32m"[39m[32mTask Management SPA[39m[32m"[39m,
+    [34mdescription[39m: [32m"[39m[32mProgressive web app for team collaboration with real-time updates and task tracking.[39m[32m"[39m,
+    [34mimage[39m: [32m"[39m[32mhttps://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=250&fit=crop[39m[32m"[39m,
+    [34mtechnologies[39m: [32m"[39m[32m[[39m\"[32mVue.js[39m\"[32m,[39m\"[32mLaravel API[39m\"[32m,[39m\"[32mPWA[39m\"[32m][39m[32m"[39m,
+    [34mgithub_url[39m: [32m"[39m[32mhttps://github.com[39m[32m"[39m,
+    [34mcategory[39m: [32m"[39m[32mvue[39m[32m"[39m,
+    [34mis_featured[39m: [36mtrue[39m,
+    [34mupdated_at[39m: [32m"[39m[32m2026-11-03 11:48:08[39m[32m"[39m,
+    [34mcreated_at[39m: [32m"[39m[32m2026-11-03 11:48:08[39m[32m"[39m,
+    [34mid[39m: [35m2[39m,
+  }
