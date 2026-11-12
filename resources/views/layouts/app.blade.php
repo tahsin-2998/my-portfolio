@@ -36,6 +36,9 @@
         href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Sora:wght@600;700;800&display=swap">
     <link rel="stylesheet" href="{{ asset('css/portfolio.css') }}">
 
+    <!-- icon to show beside the tab name -->
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}">
+
     <script>
         document.documentElement.dataset.theme = localStorage.getItem('theme') || 'dark';
     </script>
